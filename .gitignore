@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
+models/*.keras
+outputs/*.png
+outputs/*.json
